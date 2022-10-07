@@ -1,3 +1,6 @@
+// Copyright (c) TigardHighGDC
+// SPDX-License SPDX-License-Identifier: Apache-2.0
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,15 +8,14 @@ using UnityEngine;
 public class Flying : MonoBehaviour
 {
     public Rigidbody2D rb;
-    float force = 10.0f;
+    private float force = 10.0f;
     bool hit = true;
-    // Start is called before the first frame update
     void Start()
     {
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
         if (Input.GetButtonDown("Jump") && hit)
         {
