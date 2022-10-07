@@ -14,7 +14,6 @@ public class Flying : MonoBehaviour
     {
     }
 
-    // Update is called once per frame
     private void Update()
     {
         if (Input.GetButtonDown("Jump") && hit)
