@@ -10,7 +10,7 @@ public class Flying : MonoBehaviour
     public Rigidbody2D rb;
     private float force = 10.0f;
     private bool hit = true;
-    
+
     private void Update()
     {
         if (Input.GetButtonDown("Jump") && hit)
