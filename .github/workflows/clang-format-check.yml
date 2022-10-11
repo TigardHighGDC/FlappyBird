@@ -19,7 +19,7 @@ jobs:
         with:
           script: |
             import os
-            result = os.system('python3 Tools/clang_format_check.py')
+            result = os.system('python3 Tests/clang_format_check.py')
             if result != 0:
               exit(1)
             else:
