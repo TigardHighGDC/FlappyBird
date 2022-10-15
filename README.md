@@ -1,6 +1,10 @@
-# Game Dev Template
+# Unity Flappy Bird
 
-Repository template for Unity game development
+This repository contains various examples of how the Tigard High School Game Development Club strives to build and review entire
+worlds using the Unity game engine. The goal is always to build a game from scratch, using a variety of tools and resources
+to learn, grow, and have fun as a team.
+
+This repository was developed before the 2022-2023 OGPC season theme was announced by team Unitatum Ludus.
 
 ## License
 
