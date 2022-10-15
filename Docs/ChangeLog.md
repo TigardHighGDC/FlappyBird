@@ -13,7 +13,8 @@ A bi-weekly log of project changes and updates, if no changes were made in a giv
 
 Enhancements:
 
-- None
+- Readme updated.
+  - Extremely basic info added, just to get away from the template readme.
 
 Bug Fixes:
 
