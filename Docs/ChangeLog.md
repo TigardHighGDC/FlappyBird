@@ -15,6 +15,7 @@ Enhancements:
 
 - Readme updated.
   - Extremely basic info added, just to get away from the template readme.
+- Codeowners now requests review from team members of `@ogpcleaders` respectively [#11](https://github.com/TigardHighGDC/GameDevTemplate/pull/11).
 
 Bug Fixes:
 
@@ -23,7 +24,7 @@ Bug Fixes:
 
 ## 9/25/2022 - 10/9/2022
 
-Enhancements:
+New Features:
 
 - Initial commit of the project.
   - Created from the [`GameDevTemplate`](https://github.com/TigardHighGDC/GameDevTemplate).
@@ -31,6 +32,10 @@ Enhancements:
   - Created from the `Unity 2D Game` template.
 - Rigidbody2D Bird Flying Controller [#6](https://github.com/TigardHighGDC/FlappyBird/pull/6).
   - Untested controller for the player controlled bird.
+
+Enhancements:
+
+- None
 
 Bug Fixes:
 
