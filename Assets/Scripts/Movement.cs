@@ -1,3 +1,6 @@
+// Copyright (c) TigardHighGDC
+// SPDX-License SPDX-License-Identifier: Apache-2.0
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,7 +11,7 @@ public class Movement : MonoBehaviour
     public float force = 800f;
     public bool canJump = true;
 
-    void Update()
+    private void Update()
     {
         if (Input.GetButtonDown("Jump"))
         {
@@ -21,7 +24,8 @@ public class Movement : MonoBehaviour
             canJump = true;
         }
     }
-    void OnTriggerEnter2D(Collider2D trigger)
+
+    private void OnTriggerEnter2D(Collider2D trigger)
     {
         if (trigger.gameObject.tag == "end")
         {
