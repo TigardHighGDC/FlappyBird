@@ -12,7 +12,7 @@ public class Movement : MonoBehaviour
     {
         if (Input.GetButtonDown("Jump"))
         {
-            rb.velocity = new Vector3(0,0,0);
+            rb.velocity = new Vector3(0, 0, 0);
             rb.AddForce(transform.up * force, ForceMode2D.Impulse);
             canJump = false;
         }
