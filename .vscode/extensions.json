@@ -3,6 +3,5 @@
 {
     "recommendations": [
       "docsmsft.docs-authoring-pack",
-      "ms-dotnettools.csharp",
 	]
 }
