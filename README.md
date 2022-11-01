@@ -1,10 +1,11 @@
 # Flappy Bird Pages
 
-This branch generates the [Flappy Bird website]() maintained by our team.
+This branch generates the [Flappy Bird website](https://TigardHighGDC.github.io/FlappyBird/) maintained by our team.
 
 ## Getting Started
 
-Follow the [contributing instructions]() that can be found in the main branch for cloning the repository.
+Follow the [contributing instructions](https://github.com/TigardHighGDC/FlappyBird/blob/main/CONTRIBUTING.md) that
+can be found in the main branch for cloning the repository.
 
 ### GitHub Pages
 
