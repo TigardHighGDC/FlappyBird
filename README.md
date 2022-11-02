@@ -1,13 +1,24 @@
-# Unity Flappy Bird
+# Flappy Bird Pages
 
-This repository contains various examples of how the Tigard High School Game Development Club strives to build and review entire
-worlds using the Unity game engine. The goal is always to build a game from scratch, using a variety of tools and resources
-to learn, grow, and have fun as a team.
+This branch generates the [Flappy Bird website](https://TigardHighGDC.github.io/FlappyBird/) maintained by our team.
 
-This repository was developed before the 2022-2023 OGPC season theme was announced by team Unitatum Ludus.
+## Getting Started
+
+Follow the [contributing instructions](https://github.com/TigardHighGDC/FlappyBird/blob/main/CONTRIBUTING.md) that
+can be found in the main branch for cloning the repository.
+
+### GitHub Pages
+
+To enable GitHub Pages for your fork:
+
+1. Click the settings tab.
+2. Click the Pages vertical tab.
+3. Set the source branch to `gh-pages`.
+   - The default folder `/ (root)` is correct.
+4. Click Save.
 
 ## License
 
 Copyright (c) TigardHighGDC
 
-SPDX-License-Identifier: Apache-2.0
+SPDX-License SPDX-License-Identifier: Apache-2.0
