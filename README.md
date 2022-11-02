@@ -6,7 +6,7 @@ to learn, grow and have fun as a team.
 
 This repository was developed before the 2022-2023 OGPC season theme was announced by team Unitatum Ludus.
 
-- Our [Change Log](CHANGELOG.md) contains a list of all changes made to the repository.
+- Our [Change Log](Docs/CHANGELOG.md) contains a list of all changes made to the repository.
 - View our [Website](https://tigardhighgdc.github.io/FlappyBird/) to learn more about our team.
 - Join our [Discord Server](https://discord.gg/ZvsKGCFUQb).
 
