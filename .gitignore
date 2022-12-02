@@ -1,6 +1,14 @@
 # Copyright (c) TigardHighGDC
 # SPDX-License SPDX-License-Identifier: Apache-2.0
 
+# gh-pages branch ignores
+
+# IDE Ignores
 .vs/
 .vscode/
-*.js/
+
+# Ignore javascript files, we are using typescript
+*.js
+
+# Node Modules
+node_modules/

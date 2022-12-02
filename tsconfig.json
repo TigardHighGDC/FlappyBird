@@ -1,0 +1,11 @@
+// Copyright (c) TigardHighGDC
+// SPDX-License SPDX-License-Identifier: Apache-2.0
+
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "lib": ["dom", "es2017"],
+    },
+    "include": ["Src/**/*"],
+    "exclude": ["node_modules"]
+}
